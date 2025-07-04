@@ -1,0 +1,18 @@
+h1 {color:blueviolet;}
+
+.cody {
+    background: #8b0000;
+    color: blue;
+    font-weight: bold;
+    width: 200px;
+    padding: 10px;
+    text-align: center;
+    border: 2px solid black;
+    margin: 30px 0;
+}
+
+@media (min-width: 600px) {
+    h1 {
+        color: red;
+    }
+}
